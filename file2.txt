@@ -1,1 +1,5 @@
 Hey, Heavy raining today!
+
+This is just a demo to show how merge conflict happens.
+
+So practice better !
